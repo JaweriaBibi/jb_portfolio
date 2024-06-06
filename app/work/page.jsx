@@ -86,12 +86,12 @@ const projects = [
           using the <strong className="text-white">Framer Motion</strong> library.
         </li> 
         <li>
-          The portfolio showcases the developer's <strong className="text-white">skills</strong>,{" "}
+          The portfolio showcases the developer&apos;s <strong className="text-white">skills</strong>,{" "}
           <strong className="text-white">projects</strong>, and <strong className="text-white">experience</strong> in an{" "}
           <strong className="text-white">interactive</strong> and visually appealing manner.
         </li>
         <li>
-          The website is designed to provide information about the developer's{" "}
+          The website is designed to provide information about the developer&apos;s{" "}
           <strong className="text-white">background</strong>, <strong className="text-white">projects</strong>, and{" "}
           <strong className="text-white">contact details</strong>, serving as a platform to showcase
           their work and skills to potential employers or clients.
